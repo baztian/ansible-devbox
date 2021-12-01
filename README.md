@@ -6,15 +6,17 @@ Ansible playbook whose aim is to save time setting up a Ubuntu based distributio
 
 ## Prepare ansible installation
 
+    sudo -s
     apt-add-repository -y ppa:ansible/ansible
     apt update
-    apt install -y ansible
+    apt install -y ansible git
     cat > /etc/ansible/ansible.cfg <<HERE
 
     [defaults]
     interpreter_python = /usr/bin/python3
     nocows = 1
     HERE
+    exit
 
 ## Usage
 
@@ -22,11 +24,11 @@ Install on local machine using `ansible-pull` (without the need checking out thi
 
     ansible-pull -U https://github.com/baztian/ansible-devbox.git -i local playbook.yml -K
 
-Install on local machine using stock `ansible`.
+Alternatively install after checking out this repository on local machine using `ansible`.
 
     ansible-playbook playbook.yml -i local -K
 
-Force upgrade required roles.
+Force upgrade required ansible roles.
 
     ansible-galaxy install -f -r requirements.yml
 
