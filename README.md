@@ -72,3 +72,4 @@ This playbook depends on several roles.
 | [baztian.joplin](https://galaxy.ansible.com/baztian/joplin) | [![CI](https://github.com/baztian/ansible-joplin/workflows/CI/badge.svg)](https://github.com/baztian/ansible-joplin) |
 | [baztian.salesforce](https://galaxy.ansible.com/baztian/salesforce) | [![CI](https://github.com/baztian/ansible-salesforce/workflows/CI/badge.svg)](https://github.com/baztian/ansible-salesforce) |
 | [baztian.borgbackup](https://galaxy.ansible.com/baztian/borgbackup) | [![CI](https://github.com/baztian/ansible-borgbackup/workflows/CI/badge.svg)](https://github.com/baztian/ansible-borgbackup) |
+| [baztian.signal](https://galaxy.ansible.com/baztian/signal) | [![CI](https://github.com/baztian/ansible-signal/workflows/CI/badge.svg)](https://github.com/baztian/ansible-signal) |
