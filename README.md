@@ -59,10 +59,15 @@ This playbook depends on several roles.
 
 ## Other suggested roles
 
+To install any of the below roles do the following steps (replace ROLENAME with the desired Ansible role name):
+
+    ansible-galaxy install baztian.ROLENAME
+    ansible-play-role-local baztian.ROLENAME -K -b
+
 |Galaxy Role|Github Role|
 | --------- | --------- |
-| [baztian.emacs](https://galaxy.ansible.com/baztian/emacs) | [![CI](https://github.com/baztian/ansible-emacs/workflows/CI/badge.svg)](https://github.com/baztian/ansible-emacs) |
 | [baztian.xfce](https://galaxy.ansible.com/baztian/xfce) | [![CI](https://github.com/baztian/ansible-xfce/workflows/CI/badge.svg)](https://github.com/baztian/ansible-xfce) |
+| [baztian.emacs](https://galaxy.ansible.com/baztian/emacs) | [![CI](https://github.com/baztian/ansible-emacs/workflows/CI/badge.svg)](https://github.com/baztian/ansible-emacs) |
 | [baztian.gocryptfs](https://galaxy.ansible.com/baztian/gocryptfs) | [![CI](https://github.com/baztian/ansible-gocryptfs/workflows/CI/badge.svg)](https://github.com/baztian/ansible-gocryptfs) |
 | [baztian.jython](https://galaxy.ansible.com/baztian/jython) | [![CI](https://github.com/baztian/ansible-jython/workflows/CI/badge.svg)](https://github.com/baztian/ansible-jython) |
 | [baztian.multimedia](https://galaxy.ansible.com/baztian/multimedia) | [![CI](https://github.com/baztian/ansible-multimedia/workflows/CI/badge.svg)](https://github.com/baztian/ansible-multimedia) |
