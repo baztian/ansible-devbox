@@ -2,7 +2,7 @@
 
 ![CI](https://github.com/baztian/ansible-devbox/workflows/CI/badge.svg)
 
-Ansible playbook whose aim is to save time setting up a Ubuntu based distribution like Ubuntu or Linux Mint.
+Ansible playbook whose aim is to save time setting up a Ubuntu based distribution like Ubuntu or Linux Mint for software development purposes.
 
 ## Prepare ansible installation
 
