@@ -78,3 +78,4 @@ To install any of the below roles do the following steps (replace ROLENAME with 
 | [baztian.salesforce](https://galaxy.ansible.com/baztian/salesforce) | [![CI](https://github.com/baztian/ansible-salesforce/workflows/CI/badge.svg)](https://github.com/baztian/ansible-salesforce) |
 | [baztian.borgbackup](https://galaxy.ansible.com/baztian/borgbackup) | [![CI](https://github.com/baztian/ansible-borgbackup/workflows/CI/badge.svg)](https://github.com/baztian/ansible-borgbackup) |
 | [baztian.signal](https://galaxy.ansible.com/baztian/signal) | [![CI](https://github.com/baztian/ansible-signal/workflows/CI/badge.svg)](https://github.com/baztian/ansible-signal) |
+| [baztian.vagrant](https://galaxy.ansible.com/baztian/vagrant) | [![CI](https://github.com/baztian/ansible-vagrant/workflows/CI/badge.svg)](https://github.com/baztian/ansible-vagrant) |
