@@ -55,7 +55,6 @@ This playbook depends on several roles.
 | [baztian.other_installs](https://galaxy.ansible.com/baztian/other_installs) | [![CI](https://github.com/baztian/ansible-other-installs/workflows/CI/badge.svg)](https://github.com/baztian/ansible-other-installs) |
 | [baztian.buildnotify](https://galaxy.ansible.com/baztian/buildnotify) | [![CI](https://github.com/baztian/ansible-buildnotify/workflows/CI/badge.svg)](https://github.com/baztian/ansible-buildnotify) |
 | [baztian.mob](https://galaxy.ansible.com/baztian/mob) | [![CI](https://github.com/baztian/ansible-mob/workflows/CI/badge.svg)](https://github.com/baztian/ansible-mob) |
-| [baztian.adr_tools](https://galaxy.ansible.com/baztian/adr_tools) | [![CI](https://github.com/baztian/ansible-adr-tools/workflows/CI/badge.svg)](https://github.com/baztian/ansible-adr-tools) |
 
 ## Other suggested roles
 
