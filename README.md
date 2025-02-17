@@ -45,7 +45,6 @@ This playbook depends on several roles.
 | [baztian.vscode](https://galaxy.ansible.com/baztian/vscode) | [![CI](https://github.com/baztian/ansible-vscode/workflows/CI/badge.svg)](https://github.com/baztian/ansible-vscode) |
 | [baztian.python](https://galaxy.ansible.com/baztian/python) | [![CI](https://github.com/baztian/ansible-python/workflows/CI/badge.svg)](https://github.com/baztian/ansible-python) |
 | [baztian.pip_venv](https://galaxy.ansible.com/baztian/pip_venv) | [![CI](https://github.com/baztian/ansible-pip-venv/workflows/CI/badge.svg)](https://github.com/baztian/ansible-pip-venv) |
-| [baztian.adr_tools](https://galaxy.ansible.com/baztian/adr_tools) | [![CI](https://github.com/baztian/ansible-adr-tools/workflows/CI/badge.svg)](https://github.com/baztian/ansible-adr-tools) |
 | [baztian.dev_tools](https://galaxy.ansible.com/baztian/dev_tools) | [![CI](https://github.com/baztian/ansible-dev-tools/workflows/CI/badge.svg)](https://github.com/baztian/ansible-dev-tools) |
 | [baztian.java](https://galaxy.ansible.com/baztian/java) | [![CI](https://github.com/baztian/ansible-java/workflows/CI/badge.svg)](https://github.com/baztian/ansible-java) |
 | [baztian.aws](https://galaxy.ansible.com/baztian/aws) | [![CI](https://github.com/baztian/ansible-aws/workflows/CI/badge.svg)](https://github.com/baztian/ansible-aws) |
