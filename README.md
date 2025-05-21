@@ -6,17 +6,9 @@ Ansible playbook whose aim is to save time setting up a Ubuntu based distributio
 
 ## Prepare ansible installation
 
-    sudo -s
-    apt-add-repository -y ppa:ansible/ansible
-    apt update
-    apt install -y ansible git
-    cat > /etc/ansible/ansible.cfg <<HERE
+Make sure ansible is installed.
 
-    [defaults]
-    interpreter_python = /usr/bin/python3
-    nocows = 1
-    HERE
-    exit
+    sudo apt install ansible
 
 ## Usage
 
